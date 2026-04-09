@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D3839MRL3B.com.example.reminderApp",
+        "paths": ["/s/*"]
+      }
+    ]
+  }
+}
